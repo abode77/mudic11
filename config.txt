@@ -1,6 +1,0 @@
-owner=601918280159985666
-prefix=la
-game=Last
-stayinchannel=true
-songinstatus=false
-token=NjMyMzEwODg0MTc3NDEyMTE0.XaDlJA.wElkDkbhyutzGAVkdTV9OForYm0
